@@ -1,1 +1,11 @@
-c:\users\jacob\documents\visual studio 2015\Projects\ErnstProject5\ErnstProject5\bin\Debug\ErnstProject5.exe.config
+C:\Users\enrlab\Desktop\ErnstProject5\ErnstProject5\bin\Debug\ErnstProject5.exe.config
+C:\Users\enrlab\Desktop\ErnstProject5\ErnstProject5\bin\Debug\ErnstProject5.exe
+C:\Users\enrlab\Desktop\ErnstProject5\ErnstProject5\bin\Debug\ErnstProject5.pdb
+C:\Users\enrlab\Desktop\ErnstProject5\ErnstProject5\bin\Debug\ErnstProject5.xml
+C:\Users\enrlab\Desktop\ErnstProject5\ErnstProject5\obj\Debug\ErnstProject5.vbprojResolveAssemblyReference.cache
+C:\Users\enrlab\Desktop\ErnstProject5\ErnstProject5\obj\Debug\ErnstProject5.Form1.resources
+C:\Users\enrlab\Desktop\ErnstProject5\ErnstProject5\obj\Debug\ErnstProject5.Resources.resources
+C:\Users\enrlab\Desktop\ErnstProject5\ErnstProject5\obj\Debug\ErnstProject5.vbproj.GenerateResource.Cache
+C:\Users\enrlab\Desktop\ErnstProject5\ErnstProject5\obj\Debug\ErnstProject5.exe
+C:\Users\enrlab\Desktop\ErnstProject5\ErnstProject5\obj\Debug\ErnstProject5.xml
+C:\Users\enrlab\Desktop\ErnstProject5\ErnstProject5\obj\Debug\ErnstProject5.pdb
